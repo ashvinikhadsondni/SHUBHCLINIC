@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashvinikhadsondni/SHUBHCLINIC/static/css/main.f855e6bc.css",
+    "main.js": "/ashvinikhadsondni/SHUBHCLINIC/static/js/main.c00ec836.js",
+    "static/js/787.eec4b31a.chunk.js": "/ashvinikhadsondni/SHUBHCLINIC/static/js/787.eec4b31a.chunk.js",
+    "index.html": "/ashvinikhadsondni/SHUBHCLINIC/index.html",
+    "main.f855e6bc.css.map": "/ashvinikhadsondni/SHUBHCLINIC/static/css/main.f855e6bc.css.map",
+    "main.c00ec836.js.map": "/ashvinikhadsondni/SHUBHCLINIC/static/js/main.c00ec836.js.map",
+    "787.eec4b31a.chunk.js.map": "/ashvinikhadsondni/SHUBHCLINIC/static/js/787.eec4b31a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c00ec836.js"
+  ]
+}
